@@ -146,7 +146,7 @@ The actual answer depends on the retrieved document content and the language mod
 
 **Sravya Mamidi**
 
-B.Tech Computer Science and Engineering | Aspiring GenAI & Software Developer
+Computer Science and Engineering | Aspiring GenAI & Software Developer
 ---
 
 If you find this project useful, consider giving the repository a ⭐.
